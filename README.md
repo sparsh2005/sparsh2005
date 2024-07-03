@@ -3,7 +3,7 @@
 - 🌱 i’m currently mastering Machine Learning Fundamentals
 - 💞️ i’m looking to collaborate on Machine Learning Projects
 - 🐱 fun fact: i like cats
-- 📫 how to reach me: sparsh123work@gmail.com
+- 📫 how to reach me: sparshshah05@gmail.com
 - 😄 pronouns: he/him
 <!---
 sparsh2005/sparsh2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
