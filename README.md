@@ -1,6 +1,6 @@
 - 👋 hi, I’m Sparsh!!
 - 👀 i’m interested in Artificial Intelligence and Machine Learning
-- 🌱 i’m currently mastering Machine Learning Fundamentals
+- 🌱 i’m currently mastering building apps with AI
 - 💞️ i’m looking to collaborate on Machine Learning Projects
 - 🐱 fun fact: i like cats
 - 📫 how to reach me: sparshshah05@gmail.com OR sparsh123work@gmail.com
